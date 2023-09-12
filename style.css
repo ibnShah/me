@@ -1,0 +1,113 @@
+body, h1, h2, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Global styles */
+div {
+    background-color: #28282B;
+    border: 5px solid black;
+}
+
+body {
+    background-color: #28282B;
+    color: #333;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    
+}
+
+/* Header styles */
+header {
+    background-color: #1B1212;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    /*box-shadow: 0 2px 7px red;*/
+}
+
+.pr {
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+    border: 2px solid white;
+}
+
+.header-title {
+    color: #FF8C00;
+}
+
+/* About section styles */
+div {
+    border: 5px;
+}
+.about-title {
+    color: #FFAC1C;
+    text-align: center;
+    font-family: 'Tourney', sans-serif;
+    font-size: 22px;
+}
+
+.div-con {
+    margin-left: 10px;
+    margin-right: 0px;
+    margin-top: 10px;
+}
+.about-container {
+    font-size: 15px;
+    text-align: left;  
+    font-family: 'Saira', sans-serif; 
+    }
+
+.bio {
+    color: white;
+    margin-top: 10px;
+}
+
+.bio-link {
+    text-decoration: none;
+    color: tomato;
+}
+
+
+/* Contact */
+.icon {
+    width: 40px;
+    height: 40px;
+    border-radius: 100px;
+}
+
+.icon-link {
+    text-decoration:none;
+    color: transparent;
+}
+
+.icon-style {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.icon-style img {
+    margin:20px;
+    border: none;
+    outline: none;
+}
+/* Footer styles */
+footer {
+    text-align: center;
+    color: #fff;
+    font-size: 12px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    position: ;
+}
+.footer-link {
+    text-decoration: none;
+    color: #FFE5B4;
+    font-family: 'Sofia', sans-serif;
+    font-weight: 10;
+}
